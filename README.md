@@ -1,0 +1,2 @@
+# go-templata
+Go template
